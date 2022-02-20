@@ -1,0 +1,61 @@
+
+table{
+       border-collapse: collapse;
+       border: solid;
+       width: 100%;
+      
+
+     }
+th{
+      text-align: center;
+      border: solid ;
+      padding: 20px;
+     background-color: darkcyan;
+      color: white;
+      
+     
+  }
+
+ td{
+     text-align: center;
+     border: solid;
+     padding: 20px;
+     
+    } 
+
+    tr:nth-child(3n+1){
+                         background-color: rgb(248, 193, 204)
+    }
+    tr:nth-child(3n+2){
+                        background-color: rgb(241, 71, 105)
+        
+    }
+    
+    tr:nth-child(3n+3){
+                       background-color: rgb(194, 10, 47)
+    }
+
+    h1{
+          text-align: center;
+          color: whitesmoke;
+          
+    }
+
+    body{
+           background-color: darkcyan;
+    }
+    h1:hover{
+              color: red;
+    }
+    tr:hover{
+             color: rgb(10, 31, 221);
+    }
+    
+    
+    
+    
+ .a1{
+      text-decoration: line-through;
+ }   
+     
+ 

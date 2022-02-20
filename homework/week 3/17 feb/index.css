@@ -1,0 +1,238 @@
+  
+ * {
+  box-sizing: border-box;
+}
+
+    h1:hover{
+                color: crimson;
+    }
+
+    
+     
+    
+  body {
+    width: 100%;
+    height: 100%;
+    font-family: 'Georgia';
+    padding:0;
+    margin:20px 0 0 0;
+  }
+  
+  
+  
+  .container{
+
+              display: inline-flex;
+              flex-wrap: wrap;
+              width: 100%;
+              height: 70vh;
+              justify-content: space-around;
+            
+  }
+
+ 
+
+
+   
+  /* Background images on each slide */
+  
+  .slide_a {
+              
+              background-image: url(./green\ leaf\ tree.jpeg);
+              height: 50vh;
+              width: 320px;
+              background-size: cover;
+              background-position: center;
+              background-repeat: no-repeat;
+              
+   
+  }
+  
+  .slide_b {
+              background-image: url(./mountain.jpg);
+              height: 50vh;
+              width: 320px;
+              background-size: cover;
+              background-position: center;
+              background-repeat: no-repeat;
+  }
+  
+  .slide_c {
+      
+              background-image: url(./night.jpg);
+              height: 50vh;
+              width: 320px;
+              background-size: cover;
+              background-position: center;
+              background-repeat: no-repeat;
+  }
+
+
+  .slide_d {
+      
+    background-image: url(./island\ and\ beaches.jpg);
+    height: 50vh;
+    width: 320px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+
+
+.slide_e {
+      
+  background-image: url(./city\ at\ night.gif);
+  height: 50vh;
+  width: 300px;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.slide_f {
+      
+  background-image: url(./mountain\ top.gif);
+  height: 50vh;
+  width: 300px;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.slide_g {
+      
+  background-image: url(./sunrise.gif);
+  height: 50vh;
+  width: 300px;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.slide_h {
+      
+  background-image: url(./blooming-flower.gif);
+  height: 50vh;
+  width: 300px;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+
+
+.slide_i {
+      
+  background-image: url(./forest\ pathway.jpg);
+  height: 50vh;
+  width: 300px;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+
+
+.slide_j {
+      
+  background-image: url(./coal\ fish.jpg);
+  height: 50vh;
+  width: 300px;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+
+.slide_k {
+      
+  background-image: url(./moon.jpg);
+  height: 50vh;
+  width: 300px;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+
+
+.slide_l {
+      
+  background-image: url(./under\ sea.jpg);
+  height: 50vh;
+  width: 300px;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+
+
+.slide_m {
+      
+  background-image: url(./desert.gif);
+  height: 50vh;
+  width: 300px;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+
+
+.slide_n {
+      
+  background-image: url(./parrot.gif);
+  height: 50vh;
+  width: 300px;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+
+.slide_o {
+      
+  background-image: url(./cat.gif);
+  height: 50vh;
+  width: 300px;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+
+
+.slide_p {
+      
+  background-image: url(./clouds.gif);
+  height: 50vh;
+  width: 300px;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+
+
+.heading{
+               color: white;
+               margin-top: 250px;
+               text-align: center;
+               
+}
+
+.paragraph{
+          color: white;
+           text-align: center;
+}
+    
+
+
+ 
+  
+ 
+  
+ 
+ 
