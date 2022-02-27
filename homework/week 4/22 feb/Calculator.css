@@ -1,0 +1,188 @@
+form{
+    margin-left: 90px;  
+    width: 500px;
+    height: 700px;
+    box-shadow: 0px 8px 16px 4px;
+    background-image: url();
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 20px;
+    border-radius: 20px;
+
+}
+
+h1{
+      text-align: center;
+     
+}
+h1:hover{
+           color: crimson;
+           text-decoration: underline;
+}
+
+
+img{
+    height: 50px;
+    width: 50px;
+}
+
+
+table{
+    width: 500px;
+    height: 400px;
+    margin-top: 15px;
+    margin-left: 20px;
+    
+        
+}
+
+
+button{
+        height: 50px;
+        width: 70px;
+        border-radius: 20px;
+        font:bold 16px Arial;
+        vertical-align:middle;
+}
+button:hover{
+              background-color: #3B185F;
+}
+
+
+.switch {
+    position: relative;
+    display: inline-block;
+    width: 50px;
+    height: 30px;
+    margin-top: 190px;
+    margin-left: 30px;
+  }
+  
+  
+  .slider {
+    position: absolute;
+    cursor: pointer;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #ccc;
+    
+    
+  }
+
+  .switch1{
+             display: inline;
+             font-size: large;
+             margin-left: 30px;
+  }
+  
+  .slider:before {
+    position: absolute;
+    content: "";
+    height: 20px;
+    width: 20px;
+    left: 4px;
+    bottom: 4px;
+    background-color: white;
+    -webkit-transition: .4s;
+    transition: .4s;
+  }
+  
+  input:checked + .slider {
+    background-color: #2196F3;
+  }
+  
+  input:focus + .slider {
+    box-shadow: 0 0 1px #2196F3;
+  }
+  
+  input:checked + .slider:before {
+    -webkit-transform: translateX(26px);
+    -ms-transform: translateX(26px);
+    transform: translateX(26px);
+  }
+  
+  /* Rounded sliders */
+  .slider.round {
+    border-radius: 34px;
+  }
+  
+  .slider.round:before {
+    border-radius: 50%;
+  }
+.form1{
+    float:left;
+    display: inline-block;
+   
+}
+
+
+.form2{
+    float: right;
+    display: inline-block;
+    background-color: black;
+    color: white;
+    margin-right: 90px;
+}
+
+#division{
+           float: left;
+           display: inline-block;
+           margin-top: 20px;
+           
+          
+}
+
+#division1{
+    float: right;
+    display: inline-block;
+    margin-top: 40px;
+    
+   
+}
+
+
+.numbers{
+
+                color: white;
+                background-color:black;
+}
+#reset{
+        background-color: red;
+}
+#delete{
+           background-color: orange;
+}
+
+
+.symbol1{
+   background-color: #086972;
+  
+}
+
+.symbol2{
+    background-color: #01A9B4;
+}
+ .symbol3{
+    background-color:#5EAAA8;
+ }
+ 
+
+ .symbol4{
+    background-color: #086972;
+    color: white;
+   
+ }
+ 
+ .symbol5{
+     background-color: #01A9B4;
+     color: white;
+ }
+  .symbol6{
+     background-color:#5EAAA8;
+     color: white;
+  }
+ 
+
+   

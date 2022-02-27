@@ -1,0 +1,63 @@
+form{
+    
+    width: 60%px;
+    height: 700px;
+    margin: 30px 30px 30px 30px;
+    box-shadow: 0px 8px 16px 4px;
+    padding: 30px;
+    border-radius: 20px;
+    
+}
+ 
+.division1{
+    width: 50%;
+    height: 80vh;
+    float: left;
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_W5K7Q6NP84WICUlT_E_2UEvrOJY260Pttg&usqp=CAU);
+  background-repeat: no-repeat;
+  background-size: cover;
+    border-radius: 20px;
+    
+   
+}
+
+.division2{
+width: 30%;
+height: 65vh;
+float: right;
+background-color: #EFEFEF;
+border-radius: 20px;
+margin: 50px 0px 0px 900px;
+position: fixed;
+overflow: auto;
+white-space: nowrap;
+}
+
+.division3{
+             background-color: blue;
+             height: 50px;
+            margin-top: 0px;
+           
+           
+}
+
+
+span{
+    border: 1px solid;
+    border-radius: 10px;
+    padding:10px ;
+    border-style: border-box;
+   
+   
+}
+h1{
+    text-align: center;
+    color: white;
+    
+}
+
+.myself{
+          background-color: blue;
+          margin-left: 100px;
+          color: white;
+}

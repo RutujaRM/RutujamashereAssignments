@@ -1,0 +1,71 @@
+form{
+    margin-left: 90px;  
+    width: 90%;
+    height: 160vh;
+    box-shadow: 0px 8px 16px 4px;
+    background-image: url(./bag.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 20px;
+    border-radius: 20px;
+    
+
+}
+
+ 
+ .division1{
+            width: 50%;
+            height: 130vh;
+            float: left;
+            background-color: aqua;
+            
+           
+ }
+
+ .division2{
+    width: 50%;
+    height: 130vh;
+    float: right;
+    background-color: cornflowerblue;
+    
+   
+   
+   
+}
+
+img{
+     height: 150px;
+     width: 150px;
+     border-radius: 30px;
+     margin-left: 50px;
+}
+
+.image-game{
+    text-align: center;
+    height: 150px;
+    width: 150px;
+    border-radius: 30px;
+              
+}
+
+strong{
+         text-align: center;
+         margin: 0px 0px 500px 60px;
+}
+
+h2{
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+}
+h1:hover{
+           color: crimson;
+}
+
+.star{
+       height: 100px;
+       width: 300px;
+      margin-left: 180px;
+}

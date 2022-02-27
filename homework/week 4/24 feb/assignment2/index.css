@@ -1,0 +1,71 @@
+form{
+    
+    width: 60%px;
+    height: 700px;
+    margin: 30px 30px 30px 30px;
+    box-shadow: 0px 8px 16px 4px;
+    padding: 30px;
+    border-radius: 20px;
+    
+}
+
+#header{
+
+    background-color: black;
+    height: 80px;
+ }
+
+ #m1 {
+    color: white;
+    }
+
+
+ #a1{
+
+      width: 40%;
+      float: left;
+      height: 80px;
+      text-align: center;
+ }   
+
+ #a2{
+     
+     width: 60%;
+     float: right;
+     height: 80px;
+     line-height: 70px;
+     text-align: center;
+     
+ }  
+
+ #a5{
+    width: 40%;
+    float: left;
+    height: 120px;
+    margin-top: 20px;
+
+}
+#a3{
+    width: 60%;
+    float: right;
+    height: 120px;
+    text-align: center;
+    margin-top: 20px;
+}
+#i1{
+    border-radius: 300px;
+}
+#b1{
+    border: 0.5px dotted black ;
+     margin-right: 10px;
+     color: crimson;
+     
+}
+#q1{
+    color: rgb(22, 35, 219);
+}
+ 
+ span{
+    margin-right: 30px;
+    color: whitesmoke;
+}
